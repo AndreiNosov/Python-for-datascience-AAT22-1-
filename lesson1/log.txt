@@ -1,0 +1,13 @@
+Чтение списков пакетов…
+Построение дерева зависимостей…
+Чтение информации о состоянии…
+Уже установлен пакет python3-numpy самой новой версии (1:1.13.3-2ubuntu1).
+Следующие пакеты устанавливались автоматически и больше не требуются:
+  linux-headers-5.4.0-109-generic linux-hwe-5.4-headers-5.4.0-109
+  linux-hwe-5.4-headers-5.4.0-84 linux-hwe-5.4-headers-5.4.0-90
+  linux-hwe-5.4-headers-5.4.0-91 linux-hwe-5.4-headers-5.4.0-92
+  linux-hwe-5.4-headers-5.4.0-94 linux-hwe-5.4-headers-5.4.0-96
+  linux-hwe-5.4-headers-5.4.0-97 linux-image-5.4.0-109-generic
+  linux-modules-5.4.0-109-generic linux-modules-extra-5.4.0-109-generic
+Для их удаления используйте «sudo apt autoremove».
+Обновлено 0 пакетов, установлено 0 новых пакетов, для удаления отмечено 0 пакетов, и 2 пакетов не обновлено.
